@@ -1,0 +1,6 @@
+com\jrwsystems\springboot\demo\student\StudentConfiguration.class
+com\jrwsystems\springboot\demo\student\StudentController.class
+com\jrwsystems\springboot\demo\student\StudentService.class
+com\jrwsystems\springboot\demo\student\StudentRepository.class
+com\jrwsystems\springboot\demo\student\Student.class
+com\jrwsystems\springboot\demo\DemoApplication.class
